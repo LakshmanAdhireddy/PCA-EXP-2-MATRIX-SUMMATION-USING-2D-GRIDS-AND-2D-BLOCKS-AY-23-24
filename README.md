@@ -1,5 +1,5 @@
 ## PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
-## AIM:To perform matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
+
 ## NAME: LAKSHMAN
 ## REG.NO: 212222240001
 ## EX. NO: 02
